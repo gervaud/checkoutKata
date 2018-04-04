@@ -6,9 +6,10 @@ In a normal supermarket, items are identified by ‘stock keeping units’ or �
 
 In addition, some items are multipriced: buy n of them and which will cost you y. For example, item A might cost 50 pence individually but this week we have a special offer where you can buy 3 As for £1.30.
 
-This week’s prices are the following:
- Item | Price |  Offer
- ------|-------|-------------
+This week’s prices are the following :
+
+Item | Price |  Offer
+------|-------|-------------
   A     |50    |   3 for 130
   B     |30    |   2 for 45
   C     |20
